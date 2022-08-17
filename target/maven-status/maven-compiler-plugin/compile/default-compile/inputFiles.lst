@@ -1,0 +1,11 @@
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/model/Result.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/process/ClientProcessor.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/model/BankClient.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/model/Address.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/process/MongoDBRepository.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/process/BankAccountProcessor.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/process/BankProcessor.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/exception/BankException.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/process/App.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/model/BankAccount.java
+/Users/steve/Documents/Java/Bank/src/main/java/com/steve/bank/process/PersonProcess.java
